@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Complementaria 2</string>
+    <string name="titulo">Datos Personales</string>
+    <string name="nombret">Ingresa tu Nombre</string>
+</resources>
